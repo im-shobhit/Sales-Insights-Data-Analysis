@@ -60,6 +60,7 @@ Open dashboard.pbix in Power BI Desktop. Currency normalization was applied usin
 
 **🔹 Dashboard Overview**<br/>
 Provides a high-level view of KPIs, revenue trends, market performance, top customers, and top products.<br/>
+
 **🔹 Revenue Trends**<br/>
 Shows the revenue growth trend over months in 2020, highlighting seasonality and sales performance.<br/>
 
